@@ -1,0 +1,19 @@
+{
+  "name": "parent-config",
+  "version": "1.0.0",
+  "description": "Get config data from any parent directory",
+  "main": "lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-hahn/parent-config.git"
+  },
+  "author": "mark hahn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mark-hahn/parent-config/issues"
+  },
+  "homepage": "https://github.com/mark-hahn/parent-config#readme",
+  "dependencies": {
+    "find-parent-dir": "^0.3.0"
+  }
+}
